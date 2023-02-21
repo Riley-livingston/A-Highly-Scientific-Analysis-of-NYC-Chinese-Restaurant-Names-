@@ -1,4 +1,4 @@
-# A-Highly Scientific Analysis of NYC Chinese Restaurant Names
+# A Highly Scientific Analysis of NYC Chinese Restaurant Names
 <h2>Authors</h2>
 
 <a href="https://github.com/Riley-livingston"> @RileyLivingston</a>
