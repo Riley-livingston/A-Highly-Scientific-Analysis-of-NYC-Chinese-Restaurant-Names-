@@ -18,7 +18,7 @@
 
 <h2>Data Source</h2>
 
-- <a href=""> Scraped from Yelp using Selenium </a>
+- <a href="https://github.com/Riley-livingston/A-Highly-Scientific-Analysis-of-NYC-Chinese-Restaurant-Names-/blob/639ef1fc19a769fc368d0bc2c0b4f8e8611732d5/yelp_web_scraper.ipynb"> Scraped from Yelp using Selenium </a>
 
 <h2>Methods</h2>
 
