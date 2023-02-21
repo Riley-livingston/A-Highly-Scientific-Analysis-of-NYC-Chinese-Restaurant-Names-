@@ -1,1 +1,1 @@
-# A-Highly-Scientific-Analysis-of-NYC-Chinese-Restaurant-Names-
+# A-Highly Scientific Analysis of NYC Chinese Restaurant Names
