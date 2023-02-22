@@ -19,6 +19,14 @@ img {
   clear: both;
   display: table;
 }
+  * {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
 </style>
 
  <p><img src="./viz/circular_lollipop.png" alt="description" 
@@ -67,10 +75,10 @@ height="80%" width="80%" /></p>
  </br>
 <div class="row">
   <div class="column">
-    <iframe src="./viz/plotly_choropleth.html" alt="map" style="width:100%">
+    <iframe src="./viz/plotly_choropleth.html" height="800" width="800" alt="map" style="width:100%">
   </div>
   <div class="column">
-    <iframe src="./viz/family_name_sunburst.html" alt="sunburst" style="width:100%">
+    <iframe src="./viz/family_name_sunburst.html" height="800" width="800" alt="sunburst" style="width:100%">
   </div>
    
 <p><iframe src="./viz/plotly_bar.html" width="800" height="800"</iframe></p>
