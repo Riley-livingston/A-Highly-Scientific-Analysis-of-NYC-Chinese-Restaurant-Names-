@@ -1,0 +1,5 @@
+# Packages
+import random
+
+COUNTS = word_count_df['count']
+COUNTS = COUNTS.to_list()
